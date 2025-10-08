@@ -39,3 +39,4 @@ Students and practitioners can use this application to practice:
 
 ## License
 This demo application is provided for educational purposes only.
+CI/CD setup test by Mostafa.
